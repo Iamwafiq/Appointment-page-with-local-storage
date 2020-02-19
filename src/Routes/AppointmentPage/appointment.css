@@ -1,0 +1,135 @@
+.each-cell{
+	border: 1px solid black;
+  	text-align: middle;
+  	margin: 0px;
+  	padding: 5px;
+  	width: 15%;
+}
+.status-cell{
+	border: 1px solid black;
+  	text-align: middle;
+  	margin: 0px;
+  	padding: 5px;
+  	width: 2%;
+
+}
+.login-image{
+	width:200px;
+	border-radius: 40%
+}
+.input{
+	height: 20px;
+	width: 150px;
+	opacity: 0.8;
+	background: rgba(255, 255, 255, 0.4);
+	font-family: Courier New,sans-serif;
+	font-weight: 900;
+}
+.list1{
+  margin: 5px;
+	border-collapse: collapse;
+	text-align: center;
+	font-family: Courier New,sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 0px;
+    margin: auto;
+    width: 45%;
+    border: 1px solid black;
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: 5px 2px 4px 2.5px rgba(230,166,62,0.6);
+
+}
+.list2{
+  margin: 5px;
+  border-collapse: collapse;
+  text-align: center;
+  font-family: Courier New,sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 0px;
+    margin: auto;
+    width: 45%;
+    border: 1px solid black;
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: 5px 2px 4px 2.5px rgba(230,166,62,0.6);
+
+}
+.list-header{
+    border-collapse: collapse;
+    border: 1px solid black;
+	text-align: center;
+	font-family: Courier New,sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 0px;
+    margin: auto;
+    width: 500px;
+    background: rgba(255, 255, 255, 0);
+    box-shadow: 5px 2px 4px 0px rgba(230,166,62,0.6);
+}
+.table{
+	border-collapse: collapse;
+	text-align: center;
+	font-family: Courier New,sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 0px;
+    margin: auto;
+    width: 100%;
+    background: rgba(255, 255, 255, 0);
+    box-shadow: 5px 2px 4px 0px rgba(230,166,62,0.6);
+}
+ 
+
+
+.barber-button{
+	height: 20px;
+	width: 150px;
+
+}
+
+
+.appointment-box{
+
+	display: inline-block;
+	background: rgba(255, 255, 255, 0.6);
+	border: 2px solid black;
+	font-family: IBMPlexSans,sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    box-sizing: borderBox;
+    width: 350px;
+    height: 100%;
+    padding: 10px;
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 5px;
+   	line-height: 30px;
+   	vertical-align: middle;
+   	display: inline-block;
+   	box-shadow: 5px 10px rgba(0,0,0,0.5);
+
+}
+
+.appointment-button{
+	background-color: black;
+	color: white;
+	height: 50px;
+	font-size: 15px;
+	font-weight: bold;
+	text-decoration: none;
+	border-radius: 5px;
+	margin: 5px;	
+}
+
+.complete-list{
+	padding: 0px;
+	width: 100%;
+	display: inline-flex;
+  padding: 5px;
+	
+}
+
+
+
